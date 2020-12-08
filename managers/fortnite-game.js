@@ -13908,8 +13908,8 @@ module.exports = (app) => {
                 "news": {
                     "motds": [{
                         "entryType": "Website",
-                        "image": "https://cdn.discordapp.com/attachments/727286204210348083/785919174559793202/icon.png",
-                        "tileImage": "https://cdn.discordapp.com/attachments/727286204210348083/785919174559793202/icon.png",
+                        "image": "https://cdn.discordapp.com/attachments/727286204210348083/785961279402541086/Untitled.png",
+                        "tileImage": "https://cdn.discordapp.com/attachments/727286204210348083/785961279402541086/Untitled.png",
                         "videoMute": false,
                         "hidden": false,
                         "tabTitleOverride": "SilverBot",
@@ -13943,8 +13943,8 @@ module.exports = (app) => {
                 "news": {
                     "motds": [{
                         "entryType": "Website",
-                        "image": "https://cdn.discordapp.com/attachments/727286204210348083/785919174559793202/icon.png",
-                        "tileImage": "https://cdn.discordapp.com/attachments/727286204210348083/785919174559793202/icon.png",
+                        "image": "https://cdn.discordapp.com/attachments/727286204210348083/785961279402541086/Untitled.png",
+                        "tileImage": "https://cdn.discordapp.com/attachments/727286204210348083/785961279402541086/Untitled.png",
                         "videoMute": false,
                         "hidden": false,
                         "tabTitleOverride": "SilverBot",
