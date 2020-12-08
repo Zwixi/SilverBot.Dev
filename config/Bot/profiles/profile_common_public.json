@@ -1,0 +1,18 @@
+{
+  "created": "2020-12-08T19:58:56.648Z",
+  "updated": "2020-12-08T19:58:56.648Z",
+  "rvn": 1,
+  "wipeNumber": 1,
+  "accountId": "Bot",
+  "profileId": "common_public",
+  "version": "fortnite_start",
+  "items": {},
+  "stats": {
+    "attributes": {
+      "banner_color": "",
+      "homebase_name": "",
+      "banner_icon": ""
+    }
+  },
+  "_id": "Bot"
+}
