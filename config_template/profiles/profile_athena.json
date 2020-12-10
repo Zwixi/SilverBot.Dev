@@ -187,10 +187,10 @@
         },
         "use_count": 0,
         "banner_icon_template": "",
-        "locker_name": "",
+        "locker_name": "silverbot.dev ",
         "banner_color_template": "",
         "item_seen": false,
-        "favorite": false
+        "favorite": true
       },
       "quantity": 1
     }
